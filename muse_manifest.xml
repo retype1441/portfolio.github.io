@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PORT.COM" resolutions="1x" timestamp="1521557025472">
+  <folder name="css">
+    <file name="site_global.css" crc="3995637617"/>
+    <file name="index.css" crc="128289394" ref="index"/>
+    <file name="nomq_index.css" crc="4239763378" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="brif_site_evgeniyberezhnoy.docx" crc="3918376408" seo="true" mt="1520852041000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="sarah-crutchfield-549-unsplash-u2402-fr.jpg" crc="455391697" ref="phone>index"/>
+    <file name="alexandru-acea-582050-unsplash-u2438-fr.jpg" crc="280928152" ref="phone>index"/>
+    <file name="robson-hatsukami-morgan-250757-unsplash-u2459-fr.jpg" crc="4034181141" ref="phone>index"/>
+    <file name="passage-of-time-u2473-fr.png" crc="3771307591" ref="phone>index"/>
+    <file name="settings-work-tool-u2474-fr.png" crc="399907335" ref="phone>index"/>
+    <file name="agreement-u2475-fr.png" crc="452264472" ref="phone>index"/>
+    <file name="dollar-coin-stack-u2480-fr.png" crc="73979985" ref="phone>index"/>
+    <file name="sarah-crutchfield-549-unsplash.jpg" crc="4271682344" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alexandru-acea-582050-unsplash.jpg" crc="3850351092" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robson-hatsukami-morgan-250757-unsplash.jpg" crc="4174048189" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="passage-of-time-u1054-fr.png" crc="4172568778" ref="index"/>
+    <file name="settings-work-tool-u1056-fr.png" crc="162937334" ref="index"/>
+    <file name="agreement-u1058-fr.png" crc="2556814" ref="index"/>
+    <file name="dollar-coin-stack-u1064-fr.png" crc="3802311160" ref="index"/>
+    <file name="sarah-crutchfield-549-unsplash-u94-fr.jpg" crc="4002589540" ref="index"/>
+    <file name="alexandru-acea-582050-unsplash-u488-fr.jpg" crc="3780178294" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4006591806" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="484493240" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4108437218" seo="true" mt="1521556890101" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4014951115" seo="true" mt="1521556264004" redirect="true"/>
+</manifest>
